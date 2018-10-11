@@ -1,4 +1,4 @@
-# TensorflowJS Colour Learning Experiment
+# TensorflowJS Color Learning Experiment
 
 This is my first "functional" machine learning experiment created from scratch (ie. not using tutorial material).
 
